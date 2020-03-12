@@ -1,0 +1,2 @@
+public class javagithub2 {
+}
